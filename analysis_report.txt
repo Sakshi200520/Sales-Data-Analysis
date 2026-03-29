@@ -1,0 +1,14 @@
+===== SALES ANALYSIS REPORT =====
+
+Total Revenue: ₹12,365,048.00
+Average Sales: ₹123,650.48
+Highest Sale: ₹373,932.00
+Lowest Sale: ₹6,540.00
+Best Selling Product: Laptop
+
+Sales by Product:
+Headphones: ₹1,384,033.00
+Laptop: ₹3,889,210.00
+Monitor: ₹1,348,071.00
+Phone: ₹2,859,394.00
+Tablet: ₹2,884,340.00

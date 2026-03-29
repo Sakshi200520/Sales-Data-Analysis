@@ -1,20 +1,20 @@
-# 📊 Sales Data Analysis
+#  Sales Data Analysis
 
-## 🔍 Overview
+##  Overview
 This project performs sales data analysis using Python.
 
-## 🛠️ Technologies
+##  Technologies
 - Python
 - Pandas
 - Matplotlib
 
-## 📈 Features
+##  Features
 - Data Cleaning
 - Data Analysis
 - Data Visualization
 - Report Generation
 
-## 🚀 How to Run
+##  How to Run
 ```bash
 pip install -r requirements.txt
 python sales_analysis.py
